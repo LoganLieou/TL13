@@ -1,3 +1,5 @@
+open Ast
+
 let _ =
   try
     let lexbuf = Lexing.from_channel stdin in
