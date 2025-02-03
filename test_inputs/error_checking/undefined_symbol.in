@@ -1,0 +1,5 @@
+program
+	var X as int ;
+begin
+	writeInt Y ;
+end

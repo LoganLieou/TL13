@@ -1,0 +1,7 @@
+program
+    var X as int ;
+begin
+    if X != false then
+        writeInt X ;
+    end ;
+end

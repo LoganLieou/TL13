@@ -1,0 +1,8 @@
+program
+    var X as int ;
+    var Y as int ;
+    var Z as int ;
+begin
+    X := readInt ;
+    writeInt X ;
+end
